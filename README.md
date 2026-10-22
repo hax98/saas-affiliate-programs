@@ -130,7 +130,7 @@ A comprehensive collection of high-quality SaaS affiliate programs, carefully or
 | SnapWidget   | Social media embedding    | https://snapwidget.getrewardful.com/signup | 30% lifetime recurring       |
 | Postpone     | Reddit scheduling tool    | https://postpone.getrewardful.com/signup   | 20% lifetime recurring       |
 | Aware        | LinkedIn growth tool      | https://useaware.co/affiliate-program/     | 30% lifetime recurring       |
-| Repostit | Social publishing and content repurposing | https://partners.repostit.io/register | 20% recurring on valid, fully paid, non-refunded referred subscriptions while active; 360-day attribution; 60-day validation; US$10 minimum; monthly PayPal or bank payouts; smaller balances carry forward |
+| Repostit | Automated short-form video republishing across connected social platforms | https://partners.repostit.io/register?utm_source=saas-affiliate-programs&utm_medium=directory&utm_campaign=affiliate_program | 20% recurring; 360-day attribution; 60-day validation; monthly payouts from US$10; $200 at 20 and $5,000 additional at 500 eligible paying customers |
 
 ## ��� Learning & Education
 
